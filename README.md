@@ -2,7 +2,6 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - Web development
 - 🌱 I’m currently learning - Machine learning 
 - 👯 I’m looking to collaborate with - Other community developer 
 - 💬 Ask me about - PYTHON
