@@ -2,10 +2,10 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🌱 I’m currently learning - Machine learning 
+- 🌱 I’m currently learning -Front-end Development 
 - 👯 I’m looking to collaborate with - Other community developer 
 - 💬 Ask me about - PYTHON
-- 🥅 2021 Goal -Conquer Fears
+- 🥅 2023 Goal -Better than yesterday
 - ⚡ Fun fact - See Rejection as a Redirection
 
 [![Sidyadav10's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidyadav10&show_icons=true&theme=dracula)](https://github.com/sidaydav10/github-readme-stats)
