@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with - Other community developer 
 - 💬 Ask me about - PYTHON
 - 🥅 2023 Goal -Better than yesterday
-- ⚡ Fun fact - See Rejection as a Redirection
+- ⚡ Fun fact - Maybe if we tell people the brain is an app, they will start using it.
 
 [![Sidyadav10's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidyadav10&show_icons=true&theme=dracula)](https://github.com/sidaydav10/github-readme-stats)
 
