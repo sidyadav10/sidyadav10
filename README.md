@@ -4,7 +4,7 @@
 ## Your short description
 - 🌱 I’m currently learning -Front-end Development 
 - 👯 I’m looking to collaborate with - Other community developer 
-- 💬 Ask me about - PYTHON
+- 💬 Ask me about -Java
 - 🥅 2023 Goal -Better than yesterday
 - ⚡ Fun fact - Maybe if we tell people the brain is an app, they will start using it.
 
