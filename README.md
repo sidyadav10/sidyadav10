@@ -1,40 +1,35 @@
-### Hi, I'm Siddharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+ :woman_technologist: About Me :
 
-## Your short description
-- 🌱 I’m currently learning -Front-end Development 
-- 👯 I’m looking to collaborate with - Other community developer 
-- 💬 Ask me about -JavaScript
-- 🥅 2025 Goal -Better than yesterday
-- ⚡ Fun fact - Why did the developer quit his job? Because he didn’t get arrays..
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-
-
-## 🛠 &nbsp;Tech Stack
-
-- 💻 &nbsp;
- 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
- 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+:hammer_and_wrench: Languages and Tools :
 
 
-
-
-
-
-
-
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div
 
 
 
