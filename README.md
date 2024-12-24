@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning -Front-end Development 
 - 👯 I’m looking to collaborate with - Other community developer 
 - 💬 Ask me about -JavaScript
-- 🥅 2024 Goal -Better than yesterday
-- ⚡ Fun fact - Maybe if we tell people the brain is an app, they will start using it.
+- 🥅 2025 Goal -Better than yesterday
+- ⚡ Fun fact - Why did the developer quit his job? Because he didn’t get arrays..
 
 
 
